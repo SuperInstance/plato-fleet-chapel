@@ -1,0 +1,5 @@
+*.o
+plato-fleet
+plato-test
+.deps/
+.chpl_
